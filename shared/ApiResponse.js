@@ -11,7 +11,8 @@ export default class ApiResponse {
 
     static success(data) {
         const response = new ApiResponse({ success: true, data });
-        logger.info(`API Success: ${data}`);
+        // console.log(data);
+        logger.info(`API Success: ${JSON.stringify(data)}`);
         return response;
     }
 

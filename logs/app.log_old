@@ -1,0 +1,77 @@
+{"level":30,"time":1790256656426,"pid":36804,"hostname":"Desktop-OZOM","msg":"MongoDB connection successful"}
+{"level":30,"time":1790332470328,"pid":19240,"hostname":"Desktop-OZOM","msg":"MongoDB connected"}
+{"level":30,"time":1790333944060,"pid":8328,"hostname":"Desktop-OZOM","msg":"MongoDB connected"}
+{"level":30,"time":1790487158683,"pid":24992,"hostname":"Desktop-OZOM","msg":"MongoDB connected"}
+{"level":30,"time":1790487189775,"pid":24808,"hostname":"Desktop-OZOM","msg":"MongoDB connected"}
+{"level":30,"time":1790552375524,"pid":8300,"hostname":"Desktop-OZOM","msg":"test ok"}
+{"level":30,"time":1790552375957,"pid":8300,"hostname":"Desktop-OZOM","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790552452708,"pid":36420,"hostname":"Desktop-OZOM","msg":"test ok"}
+{"level":30,"time":1790552453001,"pid":36420,"hostname":"Desktop-OZOM","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790552719358,"pid":15516,"hostname":"Desktop-OZOM","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790552719358,"pid":15516,"hostname":"Desktop-OZOM","msg":"test ok"}
+{"level":30,"time":1790552731640,"pid":18092,"hostname":"Desktop-OZOM","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790552731640,"pid":18092,"hostname":"Desktop-OZOM","msg":"test ok"}
+{"level":30,"time":1790552787749,"pid":3164,"hostname":"Desktop-OZOM","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790552787749,"pid":3164,"hostname":"Desktop-OZOM","msg":"test ok"}
+{"level":30,"time":1790554820093,"pid":14160,"hostname":"Desktop-OZOM","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790554820093,"pid":14160,"hostname":"Desktop-OZOM","msg":"test ok"}
+{"level":30,"time":1790554834801,"pid":4060,"hostname":"Desktop-OZOM","msg":"Server running on port 3000"}
+{"level":30,"time":1790554835111,"pid":4060,"hostname":"Desktop-OZOM","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790555986562,"pid":30524,"hostname":"Desktop-OZOM","msg":"Server running on port 3000"}
+{"level":30,"time":1790555986861,"pid":30524,"hostname":"Desktop-OZOM","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790556080141,"pid":30524,"hostname":"Desktop-OZOM","msg":"GET --> /"}
+{"level":30,"time":1790556165729,"pid":30524,"hostname":"Desktop-OZOM","msg":"GET --> /"}
+{"level":30,"time":1790556216706,"pid":30524,"hostname":"Desktop-OZOM","msg":"POST --> /"}
+{"level":30,"time":1790577938191,"pid":7688,"hostname":"Desktop-OZOM","msg":"Server running on port 3000"}
+{"level":30,"time":1790577948428,"pid":7688,"hostname":"Desktop-OZOM","msg":"POST --> /products"}
+{"level":50,"time":1790577968215,"pid":7688,"hostname":"Desktop-OZOM","msg":"MongoDB error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/"}
+{"level":30,"time":1790578019660,"pid":39868,"hostname":"Desktop-OZOM","msg":"Server running on port 3000"}
+{"level":30,"time":1790578034838,"pid":39868,"hostname":"Desktop-OZOM","msg":"GET --> /products"}
+{"level":50,"time":1790578049683,"pid":39868,"hostname":"Desktop-OZOM","msg":"MongoDB error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/"}
+{"level":30,"time":1790578116060,"pid":10832,"hostname":"Desktop-OZOM","msg":"Server running on port 3000"}
+{"level":30,"time":1790578119490,"pid":10832,"hostname":"Desktop-OZOM","msg":"GET --> /products"}
+{"level":50,"time":1790578146089,"pid":10832,"hostname":"Desktop-OZOM","msg":"MongoDB error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/"}
+{"level":30,"time":1790578252959,"pid":12604,"hostname":"Desktop-OZOM","msg":"Server running on port 3000"}
+{"level":30,"time":1790578263138,"pid":12604,"hostname":"Desktop-OZOM","msg":"GET --> /products"}
+{"level":50,"time":1790578273143,"pid":12604,"hostname":"Desktop-OZOM","msg":"API Error: Operation `products.find()` buffering timed out after 10000ms"}
+{"level":50,"time":1790578282983,"pid":12604,"hostname":"Desktop-OZOM","msg":"MongoDB error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/"}
+{"level":30,"time":1790578398805,"pid":21256,"hostname":"Desktop-OZOM","msg":"Server running on port 3000"}
+{"level":30,"time":1790578403648,"pid":21256,"hostname":"Desktop-OZOM","msg":"POST --> /products"}
+{"level":50,"time":1790578403653,"pid":21256,"hostname":"Desktop-OZOM","msg":"API Error: Product validation failed: stock: Path `stock` is required., category: Path `category` is required., price: Path `price` is required., description: Path `description` is required., name: Path `name` is required."}
+{"level":50,"time":1790578428936,"pid":21256,"hostname":"Desktop-OZOM","msg":"MongoDB error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/"}
+{"level":30,"time":1790578623463,"pid":17996,"hostname":"Desktop-OZOM","msg":"Server running on port 3000"}
+{"level":30,"time":1790578631071,"pid":17996,"hostname":"Desktop-OZOM","msg":"GET --> /products"}
+{"level":50,"time":1790578641075,"pid":17996,"hostname":"Desktop-OZOM","msg":"API Error: Operation `products.find()` buffering timed out after 10000ms"}
+{"level":50,"time":1790578653490,"pid":17996,"hostname":"Desktop-OZOM","msg":"MongoDB error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/"}
+{"level":30,"time":1790578671421,"pid":16624,"hostname":"Desktop-OZOM","msg":"Server running on port 3000"}
+{"level":30,"time":1790578673631,"pid":16624,"hostname":"Desktop-OZOM","msg":"GET --> /products"}
+{"level":50,"time":1790578683636,"pid":16624,"hostname":"Desktop-OZOM","msg":"API Error: Operation `products.find()` buffering timed out after 10000ms"}
+{"level":50,"time":1790578701446,"pid":16624,"hostname":"Desktop-OZOM","msg":"MongoDB error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/"}
+{"level":30,"time":1790579154674,"pid":16924,"hostname":"Desktop-OZOM","msg":"Server running on port 3000"}
+{"level":30,"time":1790579155073,"pid":16924,"hostname":"Desktop-OZOM","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790579162543,"pid":16924,"hostname":"Desktop-OZOM","msg":"GET --> /products"}
+{"level":30,"time":1790579162581,"pid":16924,"hostname":"Desktop-OZOM","msg":"API Success: [object Object]"}
+{"level":30,"time":1790579280056,"pid":39808,"hostname":"Desktop-OZOM","msg":"Server running on port 3000"}
+{"level":30,"time":1790579280362,"pid":39808,"hostname":"Desktop-OZOM","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790579283490,"pid":39808,"hostname":"Desktop-OZOM","msg":"GET --> /products"}
+{"level":30,"time":1790579283515,"pid":39808,"hostname":"Desktop-OZOM","msg":"API Success: [object Object]"}
+{"level":30,"time":1790579324215,"pid":7164,"hostname":"Desktop-OZOM","msg":"Server running on port 3000"}
+{"level":30,"time":1790579324487,"pid":7164,"hostname":"Desktop-OZOM","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790579331574,"pid":7164,"hostname":"Desktop-OZOM","msg":"GET --> /products"}
+{"level":30,"time":1790579331610,"pid":7164,"hostname":"Desktop-OZOM","msg":"API Success: [object Object]"}
+{"level":30,"time":1790579493636,"pid":14020,"hostname":"Desktop-OZOM","msg":"Server running on port 3000"}
+{"level":30,"time":1790579493960,"pid":14020,"hostname":"Desktop-OZOM","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790579506548,"pid":14020,"hostname":"Desktop-OZOM","msg":"GET --> /products"}
+{"level":30,"time":1790579506573,"pid":14020,"hostname":"Desktop-OZOM","msg":"API Success: [object Object]"}
+{"level":30,"time":1790579677506,"pid":14020,"hostname":"Desktop-OZOM","msg":"POST --> /products"}
+{"level":30,"time":1790579677541,"pid":14020,"hostname":"Desktop-OZOM","msg":"API Success: [object Object]"}
+{"level":30,"time":1790579698565,"pid":14020,"hostname":"Desktop-OZOM","msg":"GET --> /products"}
+{"level":30,"time":1790579698587,"pid":14020,"hostname":"Desktop-OZOM","msg":"API Success: [object Object]"}
+{"level":30,"time":1790580970723,"pid":41200,"hostname":"Desktop-OZOM","msg":"Server running on port 3000"}
+{"level":30,"time":1790580971025,"pid":41200,"hostname":"Desktop-OZOM","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790580977132,"pid":41200,"hostname":"Desktop-OZOM","msg":"GET --> /products"}
+{"level":30,"time":1790580977159,"pid":41200,"hostname":"Desktop-OZOM","msg":"API Success: [object Object]"}
+{"level":30,"time":1790581055226,"pid":40912,"hostname":"Desktop-OZOM","msg":"Server running on port 3000"}
+{"level":30,"time":1790581055592,"pid":40912,"hostname":"Desktop-OZOM","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790581098076,"pid":40912,"hostname":"Desktop-OZOM","msg":"GET --> /products"}
+{"level":30,"time":1790581098108,"pid":40912,"hostname":"Desktop-OZOM","msg":"API Success: [object Object]"}

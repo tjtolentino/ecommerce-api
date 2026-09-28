@@ -10,6 +10,8 @@ export const logger = pino({
             {
                 target: 'pino-pretty',
                 options: {
+                    translateTime: 'SYS:yyyy-mm-dd HH:MM:ss.l',
+                    ignore: 'pid,hostname',
                     colorize: true
                 },
                 level: 'info'
@@ -19,6 +21,8 @@ export const logger = pino({
                 target: 'pino/file',
                 options: {
                     destination: './logs/app.log',
+                    translateTime: 'SYS:yyyy-mm-dd HH:MM:ss.l',
+                    ignore: 'pid,hostname',
                     mkdir: true // Automatically creates directory if it doesn't exist
                 },
                 level: 'info'
