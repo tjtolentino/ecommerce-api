@@ -4,8 +4,7 @@
     "module": "ESNext",
     "moduleResolution": "bundler",
     "checkJs": true,
-    "jsx": "preserve",
-    "baseUrl": "./"
+    "jsx": "preserve"
   },
   "exclude": [
     "node_modules",
