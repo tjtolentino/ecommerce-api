@@ -20,6 +20,7 @@
 - [Product Data Model](#product-data-model)
 - [Logging](#logging)
 - [Error Handling](#error-handling)
+- [Unit Testing](#unit-testing)
 - [Available Scripts](#available-scripts)
 - [Author](#author)
 
@@ -365,12 +366,47 @@ Centralized error handling is implemented in `src/middleware/errorHandler.js`:
 
 ---
 
+## Unit Testing
+
+Automated testing is powered by **[Bun Test](https://bun.sh/docs/cli/test)** (`bun:test`), Bun's native, high-performance test runner with built-in mocking, assertions, and code coverage reporting.
+
+### Test Architecture
+
+- **`tests/unit/apiResponse.test.js`**: Tests standardized JSON envelopes (`success`, `fail`, timestamp ISO format, and payload wrapping).
+- **`tests/unit/productModel.test.js`**: Tests Mongoose Product schema validation, required fields, whitespace trimming, and boundaries (`price >= 0`, `stock >= 0`, default `isAvailable = true`).
+- **`tests/unit/errorHandler.test.js`**: Tests centralized error handling middleware, Mongoose `CastError` (400), custom 404 responses, and 500 error fallbacks.
+- **`tests/unit/db.test.js`**: Verifies database connection resolution and error handling without requiring a live MongoDB instance.
+- **`tests/unit/logger.test.js`**: Verifies Pino logger instance setup and log levels.
+- **`tests/unit/productRoutes.test.js`**: Pure unit tests for route handlers using mock request/response objects and mocked Mongoose operations.
+- **`tests/routes/productsApi.test.js`**: HTTP integration tests for all endpoints (`GET`, `POST`, `PATCH`, `DELETE`) using an ephemeral Express server and native `fetch`.
+
+### Running Tests
+
+```bash
+# Run all unit tests
+bun test
+
+# Run tests with code coverage report
+bun run test:coverage
+
+# Run tests in watch mode
+bun run test:watch
+
+# Run a specific test suite
+bun test tests/unit/productModel.test.js
+```
+
+---
+
 ## Available Scripts
 
 | Script | Command | Description |
 | :--- | :--- | :--- |
 | `bun run dev` | `bun ./src/server.js` | Runs server in development mode |
 | `bun run start` | `bun ./src/server.js` | Starts the server |
+| `bun test` | `bun test` | Runs the entire Bun unit test suite |
+| `bun run test:coverage` | `bun test --coverage` | Runs unit tests with coverage reporting |
+| `bun run test:watch` | `bun test --watch` | Runs unit tests in watch mode |
 | `bun run src/test.js` | `bun ./src/test.js` | Runs the DB connection test |
 
 ---

@@ -22,7 +22,10 @@
   "private": true,
   "scripts": {
     "start": "bun ./src/server.js",
-    "dev": "bun ./src/server.js"
+    "dev": "bun ./src/server.js",
+    "test": "bun test",
+    "test:watch": "bun test --watch",
+    "test:coverage": "bun test --coverage"
   },
   "type": "module"
 }
