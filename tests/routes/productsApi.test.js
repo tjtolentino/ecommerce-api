@@ -1,6 +1,6 @@
 import { describe, test, expect, beforeAll, afterAll, spyOn } from "bun:test";
 import express from "express";
-import productsRouter from "../../src/router/products.js";
+import productsRouter from "../../src/routes/products.js";
 import Product from "../../src/models/Product.js";
 
 describe("Products API HTTP Integration Unit Tests", () => {
@@ -18,7 +18,7 @@ describe("Products API HTTP Integration Unit Tests", () => {
             res.status(200).json({ message: "Welcome to e-Commerce API" });
         });
 
-        // Mount products router
+        // Mount products routes
         app.use("/api/products", productsRouter);
 
         await new Promise((resolve) => {

@@ -1,9 +1,9 @@
-import express from "express";
+﻿import express from "express";
 import cors from "cors";
 
 import { connectDB } from "./config/db";
 import { logger } from "./shared/logger";
-import products from "./router/products";
+import products from "./routes/products";
 import path from "path";
 import errorHandler from "./middleware/errorHandler";
 
@@ -21,9 +21,18 @@ app.get("/", (req, res) => {
     res.status(200).json({ message: "Welcome to e-Commerce API" });
 });
 
-app.use(errorHandler);
+// product routes
 app.use("/api/products", products);
 
+// 404 catch-all handler for unmatched routes
+app.use((req, res, next) => {
+    const error = new Error(`Cannot ${req.method} ${req.originalUrl}`);
+    res.status(404);
+    next(error);
+});
+
+// error handlers
+app.use(errorHandler);
 
 // start the server
 

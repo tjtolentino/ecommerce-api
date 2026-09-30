@@ -1,5 +1,5 @@
 import { describe, test, expect, spyOn, afterEach } from "bun:test";
-import router from "../../src/router/products.js";
+import router from "../../src/routes/products.js";
 import Product from "../../src/models/Product.js";
 import { createMockReq, createMockRes } from "../helpers/mockHttp.js";
 

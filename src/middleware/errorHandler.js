@@ -1,4 +1,4 @@
-import { logger } from "../shared/logger";
+﻿import { logger } from "../shared/logger";
 import path from "path";
 
 // app.set("views", path.join(__dirname, "views"));
@@ -27,9 +27,15 @@ export default function errorHandler(err, req, res, next) {
     logger.error(`HTTP error ${statusCode}: ${message}`);
 
     if (statusCode === 404) {
+        if (req.accepts("html")) {
+            return res.status(404).sendFile(path.join(__dirname, "../views", "404.html"), (sendErr) => {
+                if (sendErr) next(sendErr);
+            });
+        }
 
-        return res.status(404).sendFile(path.join(__dirname, "views", "404.html"), (sendErr) => {
-            if (sendErr) next(sendErr);
+        return res.status(404).json({
+            success: false,
+            error: message
         });
     }
 
