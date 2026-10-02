@@ -207,3 +207,327 @@
 {"level":30,"time":1790902864459,"pid":32620,"hostname":"Desktop-OZOM","msg":"API Success: 37 objects returned"}
 {"level":30,"time":1790902864462,"pid":32620,"hostname":"Desktop-OZOM","msg":"GET --> /products"}
 {"level":30,"time":1790902864488,"pid":32620,"hostname":"Desktop-OZOM","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790929248997,"pid":2243457,"hostname":"oz01","msg":"Server running on port 3000"}
+{"level":30,"time":1790929249613,"pid":2243457,"hostname":"oz01","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790929984564,"pid":2254229,"hostname":"oz01","msg":"Server running on port 3000"}
+{"level":30,"time":1790929985110,"pid":2254229,"hostname":"oz01","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790930155065,"pid":2256604,"hostname":"oz01","msg":"Server running on port 3000"}
+{"level":30,"time":1790930155627,"pid":2256604,"hostname":"oz01","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790930214175,"pid":2257378,"hostname":"oz01","msg":"Server running on port 3000"}
+{"level":30,"time":1790930214536,"pid":2257378,"hostname":"oz01","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790930306269,"pid":2258506,"hostname":"oz01","msg":"Server running on port 3173"}
+{"level":30,"time":1790930306586,"pid":2258506,"hostname":"oz01","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790930543383,"pid":2258506,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790930543418,"pid":2258506,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790930553242,"pid":2258506,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790930553265,"pid":2258506,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790930609641,"pid":2258506,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790930609663,"pid":2258506,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790930609666,"pid":2258506,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790930609688,"pid":2258506,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931098984,"pid":2268737,"hostname":"oz01","msg":"Server running on port 3173"}
+{"level":30,"time":1790931099452,"pid":2268737,"hostname":"oz01","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790931148362,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931148396,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931148401,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931148425,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931154515,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931154539,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931154542,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931154565,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931325484,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931325512,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931614823,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931614851,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931614985,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931615012,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931621077,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931621105,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931621243,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931621271,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931638486,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931638513,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931638643,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931638670,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931647530,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931647558,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931648495,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931648523,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931742650,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931742677,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931742921,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931742949,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931755665,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931755693,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931755851,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931755879,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931768559,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931768586,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931769104,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931769131,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931769275,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931769308,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931789346,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931789373,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931789563,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931789590,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931795541,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931795568,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931795692,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931795720,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931809352,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931809379,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931809773,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931809800,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931810769,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931810796,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931810923,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931810950,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931819067,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931819094,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931819214,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931819241,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931822864,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931822891,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931823017,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931823044,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931825507,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931825534,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790931825657,"pid":2268737,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790931825684,"pid":2268737,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790932217818,"pid":2284372,"hostname":"oz01","msg":"Server running on port 3173"}
+{"level":30,"time":1790932218343,"pid":2284372,"hostname":"oz01","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790932259236,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790932259274,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790932259537,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790932259567,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790932264739,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790932264742,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790932264767,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790932264905,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790932274914,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790932274916,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790932274937,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790932274942,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790932287510,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790932287512,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790932287534,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790932287537,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790932382582,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790932382589,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790932382613,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790932382616,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790932803814,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790932803822,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790932803837,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790932803848,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933050861,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933050887,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933050993,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933051019,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933060634,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933060662,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933061686,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933061712,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933068415,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933068441,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933068547,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933068572,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933069773,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933069799,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933069901,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933069926,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933187939,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933187965,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933188213,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933188238,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933192706,"pid":2284372,"hostname":"oz01","msg":"GET --> /products/6aba13ddb5d2793f93c9da66"}
+{"level":30,"time":1790933192732,"pid":2284372,"hostname":"oz01","msg":"API Success: undefined objects returned"}
+{"level":30,"time":1790933192859,"pid":2284372,"hostname":"oz01","msg":"GET --> /products/6aba13ddb5d2793f93c9da66"}
+{"level":30,"time":1790933192884,"pid":2284372,"hostname":"oz01","msg":"API Success: undefined objects returned"}
+{"level":30,"time":1790933200492,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933200518,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933200647,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933200674,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933209902,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933209927,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933210054,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933210079,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933252511,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933252542,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933252674,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933252709,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933275480,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933275506,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933275619,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933275645,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933287885,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933287911,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933288023,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933288049,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933290360,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933290386,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933323567,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933323593,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933323827,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933323853,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933395812,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933395837,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933396036,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933396061,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933409970,"pid":2284372,"hostname":"oz01","msg":"GET --> /products/6aba13ddb5d2793f93c9da66"}
+{"level":30,"time":1790933409994,"pid":2284372,"hostname":"oz01","msg":"API Success: undefined objects returned"}
+{"level":30,"time":1790933410104,"pid":2284372,"hostname":"oz01","msg":"GET --> /products/6aba13ddb5d2793f93c9da66"}
+{"level":30,"time":1790933410129,"pid":2284372,"hostname":"oz01","msg":"API Success: undefined objects returned"}
+{"level":30,"time":1790933416730,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933416756,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933416860,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933416885,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933418648,"pid":2284372,"hostname":"oz01","msg":"GET --> /products/6abcbd5b279c49ce0e86a32b"}
+{"level":30,"time":1790933418673,"pid":2284372,"hostname":"oz01","msg":"API Success: undefined objects returned"}
+{"level":30,"time":1790933418784,"pid":2284372,"hostname":"oz01","msg":"GET --> /products/6abcbd5b279c49ce0e86a32b"}
+{"level":30,"time":1790933418809,"pid":2284372,"hostname":"oz01","msg":"API Success: undefined objects returned"}
+{"level":30,"time":1790933425153,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933425178,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790933425289,"pid":2284372,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790933425314,"pid":2284372,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790935236838,"pid":2325106,"hostname":"oz01","msg":"Server running on port 3173"}
+{"level":30,"time":1790935237711,"pid":2325106,"hostname":"oz01","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790935326326,"pid":2326235,"hostname":"oz01","msg":"Server running on port 3173"}
+{"level":30,"time":1790935326689,"pid":2326235,"hostname":"oz01","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790935356616,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790935356654,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790935357324,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790935357352,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790935478425,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790935478458,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790935478580,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790935478607,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790935484916,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790935484946,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790935485382,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790935485409,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790935504258,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790935504286,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790935657574,"pid":2326235,"hostname":"oz01","msg":"GET --> /products/6abcb2e95cc4e4a27c3c20cd"}
+{"level":30,"time":1790935657601,"pid":2326235,"hostname":"oz01","msg":"API Success: undefined objects returned"}
+{"level":30,"time":1790935657699,"pid":2326235,"hostname":"oz01","msg":"GET --> /products/6abcb2e95cc4e4a27c3c20cd"}
+{"level":30,"time":1790935657724,"pid":2326235,"hostname":"oz01","msg":"API Success: undefined objects returned"}
+{"level":30,"time":1790935661182,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790935661209,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790935661318,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790935661343,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790935668502,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790935668529,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790935668657,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790935668683,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790935715255,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790935715284,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790935715434,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790935715460,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790935724016,"pid":2326235,"hostname":"oz01","msg":"GET --> /products/6aba13ddb5d2793f93c9da66"}
+{"level":30,"time":1790935724042,"pid":2326235,"hostname":"oz01","msg":"API Success: undefined objects returned"}
+{"level":30,"time":1790935724159,"pid":2326235,"hostname":"oz01","msg":"GET --> /products/6aba13ddb5d2793f93c9da66"}
+{"level":30,"time":1790935724185,"pid":2326235,"hostname":"oz01","msg":"API Success: undefined objects returned"}
+{"level":30,"time":1790935731815,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790935731842,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790935731929,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790935731955,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790935734496,"pid":2326235,"hostname":"oz01","msg":"GET --> /products/6aba13ddb5d2793f93c9da66"}
+{"level":30,"time":1790935734521,"pid":2326235,"hostname":"oz01","msg":"API Success: undefined objects returned"}
+{"level":30,"time":1790935734633,"pid":2326235,"hostname":"oz01","msg":"GET --> /products/6aba13ddb5d2793f93c9da66"}
+{"level":30,"time":1790935734658,"pid":2326235,"hostname":"oz01","msg":"API Success: undefined objects returned"}
+{"level":30,"time":1790935745928,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790935745955,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790935746201,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790935746227,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790936405138,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790936405165,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790936405610,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790936405636,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790936819368,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790936819395,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790937284854,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790937284882,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790937285346,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790937285373,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790937289369,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790937289396,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790937289527,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790937289554,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790937698903,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790937698905,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790937698930,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790937699313,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790940409418,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790940409450,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790940409606,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790940409634,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790940420011,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790940420040,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790940420139,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790940420166,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790940456543,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790940456570,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790940456711,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790940456738,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790942385042,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790942385072,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790942385323,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790942385350,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790944067494,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790944067525,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790944067783,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790944067810,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790944078721,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790944078748,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790944078889,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790944078916,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790944098380,"pid":2326235,"hostname":"oz01","msg":"POST --> /products"}
+{"level":50,"time":1790944098387,"pid":2326235,"hostname":"oz01","msg":"API Error: Product validation failed: description: Path `description` is required."}
+{"level":30,"time":1790944114379,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790944114406,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790944114642,"pid":2326235,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790944114669,"pid":2326235,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790945916482,"pid":2467632,"hostname":"oz01","msg":"Server running on port 3173"}
+{"level":30,"time":1790945916852,"pid":2467632,"hostname":"oz01","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790946081546,"pid":2469751,"hostname":"oz01","msg":"Server running on port 3173"}
+{"level":30,"time":1790946081879,"pid":2469751,"hostname":"oz01","msg":"MongoDB connected sucessfully"}
+{"level":30,"time":1790946102511,"pid":2469751,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790946102547,"pid":2469751,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790946102810,"pid":2469751,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790946102834,"pid":2469751,"hostname":"oz01","msg":"API Success: 37 objects returned"}
+{"level":30,"time":1790946125449,"pid":2469751,"hostname":"oz01","msg":"POST --> /products"}
+{"level":30,"time":1790946125482,"pid":2469751,"hostname":"oz01","msg":"API Success: undefined objects returned"}
+{"level":30,"time":1790946125624,"pid":2469751,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790946125645,"pid":2469751,"hostname":"oz01","msg":"API Success: 38 objects returned"}
+{"level":30,"time":1790946125776,"pid":2469751,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790946125798,"pid":2469751,"hostname":"oz01","msg":"API Success: 38 objects returned"}
+{"level":30,"time":1790946141179,"pid":2469751,"hostname":"oz01","msg":"GET --> /products/6abfab4dc167d189898ec6a9"}
+{"level":30,"time":1790946141201,"pid":2469751,"hostname":"oz01","msg":"API Success: undefined objects returned"}
+{"level":30,"time":1790946141334,"pid":2469751,"hostname":"oz01","msg":"GET --> /products/6abfab4dc167d189898ec6a9"}
+{"level":30,"time":1790946141354,"pid":2469751,"hostname":"oz01","msg":"API Success: undefined objects returned"}
+{"level":30,"time":1790946147169,"pid":2469751,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790946147191,"pid":2469751,"hostname":"oz01","msg":"API Success: 38 objects returned"}
+{"level":30,"time":1790946147334,"pid":2469751,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790946147355,"pid":2469751,"hostname":"oz01","msg":"API Success: 38 objects returned"}
+{"level":30,"time":1790947210015,"pid":2469751,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790947210042,"pid":2469751,"hostname":"oz01","msg":"API Success: 38 objects returned"}
+{"level":30,"time":1790947210341,"pid":2469751,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790947210364,"pid":2469751,"hostname":"oz01","msg":"API Success: 38 objects returned"}
+{"level":30,"time":1790947238363,"pid":2469751,"hostname":"oz01","msg":"GET --> /products/6abcbd5b279c49ce0e86a328"}
+{"level":30,"time":1790947238383,"pid":2469751,"hostname":"oz01","msg":"API Success: undefined objects returned"}
+{"level":30,"time":1790947240825,"pid":2469751,"hostname":"oz01","msg":"GET --> /products/6abcbd5b279c49ce0e86a328"}
+{"level":30,"time":1790947240846,"pid":2469751,"hostname":"oz01","msg":"API Success: undefined objects returned"}
+{"level":30,"time":1790948349331,"pid":2469751,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790948349352,"pid":2469751,"hostname":"oz01","msg":"API Success: 38 objects returned"}
+{"level":30,"time":1790948349474,"pid":2469751,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790948349495,"pid":2469751,"hostname":"oz01","msg":"API Success: 38 objects returned"}
+{"level":30,"time":1790948352291,"pid":2469751,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790948352313,"pid":2469751,"hostname":"oz01","msg":"API Success: 38 objects returned"}
+{"level":30,"time":1790948352585,"pid":2469751,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790948352610,"pid":2469751,"hostname":"oz01","msg":"API Success: 38 objects returned"}
+{"level":30,"time":1790949393093,"pid":2469751,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790949393114,"pid":2469751,"hostname":"oz01","msg":"API Success: 38 objects returned"}
+{"level":30,"time":1790949393449,"pid":2469751,"hostname":"oz01","msg":"GET --> /products"}
+{"level":30,"time":1790949393470,"pid":2469751,"hostname":"oz01","msg":"API Success: 38 objects returned"}
