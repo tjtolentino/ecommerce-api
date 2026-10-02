@@ -1,7 +1,7 @@
 import logger from "../shared/logger";
 
 export default class ApiResponse {
-  
+
     constructor({ success = true, data = null, error = null }) {
         this.success = Boolean(success);
         this.result = data;
@@ -11,9 +11,12 @@ export default class ApiResponse {
 
     static success(data) {
         const response = new ApiResponse({ success: true, data });
-        // console.log(data);
-        logger.info(`API Success: ${JSON.stringify(data)}`);
-        return response;
+        if (data) {
+            logger.info(`API Success: ${JSON.stringify(data.data.length || data.length || data.count)} objects returned`);
+            return response;
+        } else {
+            console.log(data);
+        }
     }
 
     static fail(error) {
